@@ -2,7 +2,7 @@
   "name": "jatuphon-thaitea",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://littlesquid.github.io/jatuphon-thaitea/",
+  "homepage": "https://littlesquid.github.io/jatuphon-thaitea",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
