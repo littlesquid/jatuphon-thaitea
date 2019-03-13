@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/jatuphon-thaitea/static/js/runtime~main.e00313ca.js"
   },
   {
-    "revision": "21ced045822bbe2d30ab",
+    "revision": "3c285daa695b2bd55ff8",
     "url": "/jatuphon-thaitea/static/js/main.ad655375.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/jatuphon-thaitea/static/js/2.8f71a45e.chunk.js"
   },
   {
-    "revision": "21ced045822bbe2d30ab",
-    "url": "/jatuphon-thaitea/static/css/main.a3766a47.chunk.css"
+    "revision": "3c285daa695b2bd55ff8",
+    "url": "/jatuphon-thaitea/static/css/main.525c3dce.chunk.css"
   },
   {
-    "revision": "64aa3e343ec4cf3ce305dd70a6cfdaa7",
+    "revision": "76b8757cb3a10a0aee475c402eb9e5f3",
     "url": "/jatuphon-thaitea/index.html"
   }
 ];
