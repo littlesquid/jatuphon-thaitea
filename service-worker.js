@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jatuphon-thaitea/precache-manifest.4728f1386f53b81671cd174f69b4c99c.js"
+  "/jatuphon-thaitea/precache-manifest.50199f896baff03f44d7664151a81dfc.js"
 );
 
 workbox.clientsClaim();
