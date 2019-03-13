@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jatuphon-thaitea/precache-manifest.4728f1386f53b81671cd174f69b4c99c.js"
+  "/jatuphonthaitea/precache-manifest.f84190bdebc7325bb407e96d07eafa66.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jatuphon-thaitea/index.html", {
+workbox.routing.registerNavigationRoute("/jatuphonthaitea/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
