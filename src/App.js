@@ -1,12 +1,17 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+import Home from './components/Home/Home';
+import Slider from './components/Slider/Slider';
+import Menu from './components/Menu/Menu';
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
+        {
+          <img src={logo} className="App-logo" alt="logo" />
+          
+          /* <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and save to reload.
@@ -19,7 +24,10 @@ class App extends Component {
           >
             Learn React
           </a>
-        </header>
+        </header> */}
+        <Menu/>
+        <Home/>
+        <Slider/>
       </div>
     );
   }

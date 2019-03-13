@@ -1,0 +1,30 @@
+.bg-dark {
+    background-color: #492711!important;
+}
+
+/*social icon*/
+.my-social-icon .social-svg {
+    color: wheat;
+}
+
+.my-social-icon .social-svg:hover {
+    color: #55acee;
+    background: white;
+}
+
+g.social-svg-mask {
+    fill: rgb(200, 200, 200) !important;
+}
+
+g.social-svg-mask:hover {
+    fill: rgb(230, 230, 230) !important;
+}
+/*social icon*/
+
+/*nav*/
+a.nav-link {
+    font-weight: bold;
+    cursor: pointer;
+    color: rgb(190,184,172) !important;
+}
+/*nav*/
