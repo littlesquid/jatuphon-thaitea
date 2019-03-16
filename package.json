@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://littlesquid.github.io/jatuphon-thaitea",
   "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.1.4",
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",

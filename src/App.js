@@ -4,6 +4,11 @@ import './App.css';
 import Home from './components/Home/Home';
 import Slider from './components/Slider/Slider';
 import Menu from './components/Menu/Menu';
+import Contact from './components/Contact/Contact';
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import { faFeather, faPhone, faComments, faEnvelope } from '@fortawesome/free-solid-svg-icons'
+library.add(fab, faEnvelope, faFeather, faPhone, faComments)
 class App extends Component {
   render() {
     return (
@@ -28,6 +33,7 @@ class App extends Component {
         <Menu/>
         <Home/>
         <Slider/>
+        <Contact/>
       </div>
     );
   }

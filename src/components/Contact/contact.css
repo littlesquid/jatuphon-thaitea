@@ -1,0 +1,52 @@
+.contact {
+    background-color: #587498;
+}
+
+.contact-box {
+    margin-right: 20px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 32px 40px;
+    background-color: #fff;
+    border: 1px solid #eaf0f6;
+}
+
+.contact-box-wrapper {
+    /*top: -60px;*/
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-box-item {
+    max-width: 100%;
+    margin-bottom: 24px;
+}
+
+.contact-box-item.logo {
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+}
+
+.contact-box-item.title {
+    font-weight: 600;
+    color: #33475b;
+}
+
+.contact-box-item.blurb {
+    color: #33475b;
+}
+
+.contact-box-item.number {
+    font-size: 20px;
+    color: #1169c0;
+}
+
+.contact-box-item.link {
+    position: relative;
+    font-weight: 600;
+}
